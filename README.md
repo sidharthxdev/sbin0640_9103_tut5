@@ -7,9 +7,12 @@ Quiz 8 // sbin0640_9103_tut5
 
 Keywords: **Risograoh Print, Particle System, NeoBrutalistic technical Environments & design elements**
 
-References: Brand design work and the art diection of [Perplexity](https://live.standards.site/perplexity/design)
+References: 
+* Brand design work and the art diection of [Perplexity](https://live.standards.site/perplexity/design)
 
 ###### Moodbaord
+
+![Image](https://framerusercontent.com/images/T2wAg0YBqfCPeAEM01R5vl1z1s.png)
 
 
 
