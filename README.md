@@ -56,4 +56,6 @@ Genuary, is a yearly challenge where artists and developers create generative ar
 [Link to Code](https://editor.p5js.org/codingJM/sketches/MxFsq-ptk) 
 
 
-//This is the end of Quiz 8 Updation
+//This is the end of Quiz 8 Updation 
+
+Looking forward to exploring more into the final project!!
