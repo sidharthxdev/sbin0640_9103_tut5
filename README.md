@@ -39,9 +39,21 @@ To evoke tactile, retro, and hardware-inspired experiences, I would be using gen
 [Pizza Punk Creative by Jérôme Mercier](https://www.pizza-punk.com/) 
 *For the interactivity to draw your own aurora into the provided environment*
 
+**Var i(ant) by Pizza Punk** 
+
+var i(ant) is a generative system exploring interference patterns and emergent structures. 
+
+![Image](https://www.pizza-punk.com/images/projects/variant/variant-final04.webp)
+
+[Link to Code](https://editor.p5js.org/codingJM/sketches/GXSSG5L7y) 
+
 **Genuary by Pizza Punk** 
-Genuary, is a yearly challenge where artists and developers create generative art using only code—no graphic design software. 
+
+Genuary, is a yearly challenge where artists and developers create generative art using only code—no graphic design software.
 
 ![Image](https://www.pizza-punk.com/images/projects/genuary/Genuary.gif)
 
 [Link to Code](https://editor.p5js.org/codingJM/sketches/MxFsq-ptk) 
+
+
+//This is the end of Quiz 8 Updation
